@@ -1,0 +1,20 @@
+{
+  "name": "irc-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "clone": "^1.0.2",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "slate-irc": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
